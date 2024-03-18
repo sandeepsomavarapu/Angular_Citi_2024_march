@@ -1,0 +1,96 @@
+
+
+web application:
+	gmail,amazon,.........
+
+	web pages
+	
+		static 				gmail
+		
+		dynamic 			gmail
+		
+
+HTML-->static pages 
+
+		tags 
+		
+		
+	tim berners lee
+
+
+.html
+
+--->browser-->google 
+
+	engine -->v8-->DOM tree
+
+
+
+<form>
+
+	<input type="text/password/radio/checkbox/date/time/datetime/file/color"
+
+</form>
+
+
+
+CSS:3
+====
+		3 ways 
+		
+			inline		-->	inside the html tag style="propname:value"
+			internal	--><head>--><style>-->
+			external	-->mystyles.css
+
+		selector{propname:value;propname:value....}
+		
+		element selector  h1
+		group selector		h2,h1,h3,p...
+		all selector
+		id selector
+		class selector
+		
+		
+Javascript
+		->dynamic typed lanaguage 
+
+
+angular		:html+css+ts
+		
+		
+		inline
+		internal
+		external
+		
+		
+		var eid=123;number
+		
+		function add(...)
+		{
+		
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+
+
+
+
+
+
