@@ -71,7 +71,7 @@ angular		:html+css+ts
 		}
 		
 		
-		
+	Day 1 FD link : https://survey.zohopublic.com/zs/SPBq4g	
 		
 		
 		
