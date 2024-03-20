@@ -142,7 +142,7 @@ angular		:html+css+ts
 		
 		node -v
 		npm -v
-		npm install @angular/cli
+		npm install @angular/cli@16.2.2
 		ng version
 		ng new projectname
 		cd projectname
@@ -155,6 +155,82 @@ angular		:html+css+ts
 		
 		
 https://github.com/sandeepsomavarapu/Angular_Stuff1.git
+		
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+		
+	@Component({
+  selector: 'login',
+  template:`
+  <h1>welcome to LoginComponent</h1>
+  ` , 
+  styles: [`h1{
+    color:red
+  }p{color:blue}`]
+})
+		
+		
+Directives
+============
+
+	*ngFor		for
+	*ngIf
+	*ngSwitch
+
+
+pipes :
+
+predefined 
+
+custom pipe
+
+	sandeep	|uppercase
+
+
+		ng g p emps/pipename --skip-tests true
+		
+		Router --->dependency injection
+		
+		navigate(['employees'])
+		
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
