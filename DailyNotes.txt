@@ -74,6 +74,127 @@ angular		:html+css+ts
 	Day 1 FD link : https://survey.zohopublic.com/zs/SPBq4g	
 		
 		
+	html,css,js,ts,angular,components,data binding,directives,pipes,forms
+		
+		
+	JS-->ES 2015 6
+
+			TS=JS+Types -->static typed 
+		
+		ts
+		var empid:number=90;
+		
+		browser can understand only JS
+		
+		translation-->translator
+		
+		compailation
+		
+		js-->transpiler -->transpailation
+		
+		tsc welcome.ts --->js--->browsers--->op
+		
+		node welcome.js
+		
+		
+		node js
+		
+		npm install packagename -g
+		npm install create-react-app
+		npm install typescript
+		npm install @angular/cli
+		
+	Bootstrap	
+		Css,JS frameworks
+		
+		
+		mystyles.css
+		
+		<link rel=""  href="mystles.css"/>
+		
+		<link rel="" href="bootstrap.css"/>
+		
+		
+		
+		https://getbootstrap.com/
+		
+		https://getbootstrap.com/docs/4.6/getting-started/introduction/
+		
+		
+		
+		Angular JS
+		angular 2
+		
+		angular -->SPA
+		
+		
+		CLI
+		
+		npm install -g@angular/cli
+		
+		
+		component 
+		
+				css
+				html
+		
+		app-->index.html
+		
+		node -v
+		npm -v
+		npm install @angular/cli
+		ng version
+		ng new projectname
+		cd projectname
+		ng serve -o
+		ng generate component login
+		
+		4200
+		
+		--port=
+		
+		
+https://github.com/sandeepsomavarapu/Angular_Stuff1.git
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
