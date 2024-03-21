@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1111,
+      "name": "citiindia",
+      "email": "citi@gmail.com"
+    },
+    {
+      "id": 321,
+      "name": "suresh",
+      "email": "suresh@gmail.com",
+      "address": {
+        "hno": 12,
+        "city": "hyderabad"
+      }
+    },
+    {
+      "id": 123,
+      "name": "phanikumar",
+      "email": "phani@gmail.com"
+    },
+    {
+      "id": 2222,
+      "name": "sathya",
+      "email": "sathya@gmail.com"
+    },
+    {
+      "id": 222112,
+      "name": "india123",
+      "email": "dell@gmail.com"
+    },
+    {
+      "id": 121,
+      "name": "nihasvi",
+      "email": "nihsavi@123"
+    },
+    {
+      "id": 123123,
+      "name": "hyd123",
+      "email": "hyd@gmail.com"
+    },
+    {
+      "id": 2122,
+      "name": "sumanth",
+      "email": "sumanth@gmail.com"
+    }
+  ]
+}

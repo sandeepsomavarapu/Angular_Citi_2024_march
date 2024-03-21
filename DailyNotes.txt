@@ -185,7 +185,7 @@ pipes :
 
 predefined 
 
-custom pipe
+custom pipe ng g p pipename
 
 	sandeep	|uppercase
 
@@ -196,15 +196,47 @@ custom pipe
 		
 		navigate(['employees'])
 		
+routing 
+
+forms 
+
+	TDF: ngForm,ngModel  					import FormsModule->app.module.ts
+	RF :FormGroup,formControl formControlName,import ReactiveForms
+ 
+
+Directives:
+==========
+		
+		component directive -->selector,templateurl,styleurls
+		
+		structural directive -->*ngif,*ngFor,*ngSwitch
+		
+		attribute directive-->ng-style,ngclass
+		
+			ng g d 
+			
+			inject services Elementref ,renderer
+			
+			register app.module.ts
+			
+			use attribute directive 
+
+HostElement:on which element we apply attribute directive i.e HostElement
+
+decorators
+
+HostListener
+HostBinding
 
 
 
 
+
+JSON-server 3000  --->service class HttpClient-->get,post,put,delete
+
+		ng g s servicename  @Injectable 
 		
-		
-		
-		
-		
+springboot	
 		
 		
 		
